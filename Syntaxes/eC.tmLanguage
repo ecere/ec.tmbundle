@@ -7,6 +7,8 @@
 		<string>ec</string>
 		<string>eh</string>
 	</array>
+	<key>keyEquivalent</key>
+	<string>^~E</string>
 	<key>name</key>
 	<string>eC</string>
 	<key>patterns</key>
