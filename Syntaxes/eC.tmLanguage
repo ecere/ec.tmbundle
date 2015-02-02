@@ -17,7 +17,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(class|private|public|property|import|delete|new|new0|renew|renew0|define|get|set|remote|dllexport|dllimport|stdcall|subclass|__on_register_module|namespace|using|typed_object|any_object|incref|register|watch|stopwatching|firewatchers|watchable|class_designer|class_fixed|class_no_expansion|isset|class_default_property|property_category|class_data|class_property|virtual|thisclass|unichar|dbtable|dbindex|database_open|dbfield|uint|uint32|uint16|uint64|bool|byte|int64|uintptr|intptr|intsize|uintsize|this|value)\b</string>
+			<string>\b(property|import|delete|new|new0|renew|renew0|define|get|set|remote|dllexport|dllimport|stdcall|subclass|__on_register_module|namespace|using|typed_object|any_object|incref|register|watch|stopwatching|firewatchers|watchable|class_designer|class_fixed|class_no_expansion|isset|class_default_property|property_category|class_data|class_property|virtual|thisclass|dbtable|dbindex|database_open|dbfield|this|value)\b</string>
 			<key>name</key>
 			<string>keyword.other.ec</string>
 		</dict>
@@ -32,6 +32,24 @@
 			<string>\bnull\b</string>
 			<key>name</key>
 			<string>constant.language.null.ec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bclass\b</string>
+			<key>name</key>
+			<string>storage.type.class.ec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(private|public)\b</string>
+			<key>name</key>
+			<string>storage.modifier.ec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(unichar|uint|uint32|uint16|uint64|bool|byte|int64|uintptr|intptr|intsize|uintsize)\b</string>
+			<key>name</key>
+			<string>storage.type.ec</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
