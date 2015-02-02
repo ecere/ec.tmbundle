@@ -21,7 +21,7 @@
 			<key>name</key>
 			<string>keyword.eC</string>
 		</dict>
-	</dict>
+	</array>
 	<key>scopeName</key>
 	<string>source.eC</string>
 	<key>uuid</key>
