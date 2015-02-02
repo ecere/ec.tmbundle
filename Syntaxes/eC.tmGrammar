@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>ec</string>
+		<string>eh</string>
+	</array>
+	<key>name</key>
+	<string>eC</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.c</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(class|private|public|property|import|delete|new|new0|renew|renew0|define|get|set|remote|dllexport|dllimport|stdcall|subclass|__on_register_module|namespace|using|typed_object|any_object|incref|register|watch|stopwatching|firewatchers|watchable|class_designer|class_fixed|class_no_expansion|isset|class_default_property|property_category|class_data|class_property|virtual|thisclass|unichar|dbtable|dbindex|database_open|dbfield|uint|uint32|uint16|uint64|bool|byte|int64|uintptr|intptr|intsize|uintsize|this|true|false|null|value)\b</string>
+			<key>name</key>
+			<string>keyword.eC</string>
+		</dict>
+	</dict>
+	<key>scopeName</key>
+	<string>source.eC</string>
+	<key>uuid</key>
+	<string>30A57404-CF1D-48D7-827B-864B0FFEB951</string>
+</dict>
+</plist>

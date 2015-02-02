@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactName</key>
+	<string>Jerome St-Louis</string>
+	<key>description</key>
+	<string>Support for the &lt;a href="http://ec-lang.org/"&gt;eC programming language&lt;/a&gt;</string>
+	<key>name</key>
+	<string>eC</string>
+	<key>uuid</key>
+	<string>555E1A4D-ADF7-4E8E-95D4-6F5099E055DF</string>
+</dict>
+</plist>
