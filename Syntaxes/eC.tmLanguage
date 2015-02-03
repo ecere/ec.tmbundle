@@ -55,7 +55,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.ec</string>
+	<string>source.c.ec</string>
 	<key>uuid</key>
 	<string>30A57404-CF1D-48D7-827B-864B0FFEB951</string>
 </dict>
