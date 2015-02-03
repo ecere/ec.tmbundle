@@ -5,7 +5,7 @@
 	<key>contactName</key>
 	<string>Jerome St-Louis</string>
 	<key>description</key>
-	<string>Support for the &lt;a href="http://ec-lang.org/"&gt;eC programming language&lt;/a&gt;</string>
+	<string>Support for eC (ec-lang.org)</string>
 	<key>name</key>
 	<string>eC</string>
 	<key>uuid</key>
